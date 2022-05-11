@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working at **GoGrow**
 
-- 🌱 I’m currently learning **Clojure | Clojurescript**
+- 🌱 I’m currently learning **Elixir**
 
 - 💬 Ask me about **Common Lisp | Julia | Haskell**
 
