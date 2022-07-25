@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ian Mejia</h1>
-<h3 align="center">Physicist | Data Scientist | Software Developer</h3>
+<h3 align="center">Physicist | Data Engineer | Software Developer</h3>
 
 - 🔭 I’m currently working at **APEX (CBC)**
 
