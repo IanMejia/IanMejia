@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ian Mejia</h1>
 <h3 align="center">Physicist | Data Engineer | Tech Lead</h3>
 
-- 🔭 I’m a Tech Lead at **APEX (CBC)**
+- 🔭 I’m a Data Engineer **UNWIND FINANCE**
 
 - 🌱 I’m currently learning **Elixir**
 
